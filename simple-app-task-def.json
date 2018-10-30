@@ -10,7 +10,7 @@
         {
             "environment": [],
             "name": "simple-app",
-            "image": "amazon/amazon-ecs-sample",
+            "image": "453017865013.dkr.ecr.us-east-1.amazonaws.com/playlistify",
             "cpu": 10,
             "memory": 500,
             "portMappings": [
